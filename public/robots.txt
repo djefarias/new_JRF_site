@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://jrfconsultoria.com.br/sitemap.xml
